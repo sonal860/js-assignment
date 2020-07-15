@@ -1,0 +1,12 @@
+ If the number is passed to the function console.log() then the function will display it.
+ex:
+
+filter_none
+edit
+play_arrow
+
+brightness_4
+<script> 
+var a = 2; 
+console.log(a); 
+</script> 
